@@ -10,6 +10,7 @@ const Hero = () => {
         </div>
         <div className="hidden lg:block w-1/2">
         <Image
+        loading="eager"
         src="/bg.jpg"
         height={500}
         width={500}
