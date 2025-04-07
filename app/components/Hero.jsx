@@ -4,7 +4,7 @@ const Hero = () => {
     return (
       <div className="bg-black text-white flex items-center justify-between py-10 h-screen">
         <div className="max-w-lg">
-          <h1 className="text-4xl font-bold mb-4">Gaslight Inc.</h1>
+          <h1 className="text-4xl font-bold mb-4">Amir Doxxing service</h1>
           <p className="text-xl mb-8">The Most Professional Gaslighting and Social Engineering Service Available! (We Promise.)</p>
           <p className="text-lg">Don’t be left in the dark about what’s real. Hire our team of psychological experts and get results (and some laughs) today!</p>
         </div>
