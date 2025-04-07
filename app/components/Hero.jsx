@@ -13,8 +13,8 @@ const Hero = () => {
           <Image
             loading="eager"
             src="/bg.jpg"
-            height={500}
-            width={500}
+            height={512}
+            width={341}
             alt="pic btw background"
           />
         </div>
